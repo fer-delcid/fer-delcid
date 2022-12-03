@@ -1,5 +1,5 @@
 ## About me 😁
-- 👋 Hi, I’m @fer-delcid, but you can call me only "Fer" 😉
+- 👋 Hi, I’m Fernando del Cid, but you can call me only "Fer" 😉
 - 👀 I’m interested in technology and music.
 - ✌🏻 I’m currently learning web development, but im experienced on Java.
 - 💻 I’m looking to collaborate on a tech company to have the experience nedeed.
